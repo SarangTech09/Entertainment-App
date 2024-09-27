@@ -1,8 +1,8 @@
-# 🍿 MoodFlix Entertainment App
+# 🍿🎭🎞️ MoodFlix Entertainment App
 
 ## 🙌 Introduction
 
-The [MoodFlix Entertainment](https://Moodflixentertainment.netlify.app/) is a full-stack movie and TV series entertainment application. The aim of this project was to practice full-stack development skills and to learn new interesting technologies. With this app, users can easily find a movie or TV series, watch a trailer, leave a comment, and add it to their bookmarks. They can also change the theme of the app.
+The [MoodFlix Entertainment](https://moodflixentertainment.netlify.app/) is a full-stack movie and TV series entertainment application. The aim of this project was to practice full-stack development skills and to learn new interesting technologies. With this app, users can easily find a movie or TV series, watch a trailer, leave a comment, and add it to their bookmarks. They can also change the theme of the app.
 
 ## 👀 Features
 
@@ -14,7 +14,7 @@ The [MoodFlix Entertainment](https://Moodflixentertainment.netlify.app/) is a fu
 
 ## 🌐 Preview
 
-To use the application, visit [MoodFlix Entertainment](https://Moodflixentertainment.netlify.app/) and sign up by creating username and password to access extra features like reviews and favorites.
+To use the application, visit [MoodFlix Entertainment](https://moodflixentertainment.netlify.app/) and sign up by creating username and password to access extra features like reviews and favorites.
 
 # Technologies Used
 
@@ -36,12 +36,12 @@ To use the application, visit [MoodFlix Entertainment](https://Moodflixentertain
 
 2. Clone your repository (do not forget to add `your account name`):
 ```bash
-$ git clone https://github.com/[YOUR ACCOUNT NAME]/entertainment-app.git
+$ git clone https://github.com/[YOUR ACCOUNT NAME]/Entertainment-App.git
 ```
 
 3. Go into the repository and install dependencies:
 ```bash
-$ cd Entertainment_App
+$ cd Entertainment-App
 
 $ npm install
 ```
@@ -61,4 +61,4 @@ $ npm start
 
 # Live Link
 
-https://Moodflixentertainment.netlify.app/
+https://moodflixentertainment.netlify.app/
