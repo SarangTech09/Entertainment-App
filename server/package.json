@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Sarang Tadaskar",
   "main": "index.js",
+  "description": "backend for moodflix entertainment app",
   "scripts": {
     "start": "nodemon index.js"
   },
