@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Sarang Tadaskar",
   "main": "index.js",
+  "license": "MIT",
   "description": "backend for moodflix entertainment app",
   "scripts": {
     "start": "node index.js"
